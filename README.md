@@ -4,17 +4,26 @@
 
 ## 💡 Vamos trocar uma ideia?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinamirandaf/) 
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marina.xlsx/) 
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+31+991623337)
-
+<div>
+  <a href="https://www.linkedin.com/in/marinamirandaf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ff7700&color=000000" />
+  </a>
+  <a href="https://www.instagram.com/marina.xlsx/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ff7700&color=000000" />
+  </a>
+  <a href="https://wa.me/55+31+991623337">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=ff7700&color=000000" />
+  </a>
+</div>
 
 ## 🎯 Ferramentas e Habilidades
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)       
+<div>
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ff7700&color=000000"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=ff7700&color=000000" />
+
+  </div>
+
 
 ## 📊 Meu desenvolvimento no GitHub
 
