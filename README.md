@@ -1,8 +1,14 @@
 # MARINA MIRANDA FREITAS
-### Unindo minha paixão por sistemas e minha experiência em contabilidade, quero transformar números em inovação e tecnologia em eficiência.
+Gosto de pensar que sou um for loop infinito entre contabilidade e tecnologia. Comecei traduzindo números, agora quero compilá-los em soluções inteligentes.
+
+- Transformando números em código.
+- Automatizando café e planilhas.
+- Refatorando a contabilidade, uma linha de código por vez.
+
+Se curte tecnologia, automação ou só quer debater qual é a melhor linguagem de programação (👀 Python, talvez?), bora trocar uma ideia!
 
 
-## 💡 Vamos trocar uma ideia?
+## 💡 Conecte-se comigo?
 
 <div>
   <a href="https://www.linkedin.com/in/marinamirandaf/">
