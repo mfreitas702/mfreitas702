@@ -5,7 +5,7 @@ Gosto de pensar que sou um for loop infinito entre contabilidade e tecnologia. C
 - Automatizando café e planilhas.
 - Refatorando a contabilidade, uma linha de código por vez.
 
-Se curte tecnologia, automação ou só quer debater qual é a melhor linguagem de programação (👀 Python, talvez?), bora trocar uma ideia!
+Se curte tecnologia, automação ou só quer debater qual é a melhor linguagem de programação, bora trocar uma ideia!
 
 
 ## 💡 Conecte-se comigo?
