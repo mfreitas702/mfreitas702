@@ -36,9 +36,6 @@ Se curte tecnologia, automação ou só quer debater qual é a melhor linguagem 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mfreitas702&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-## 🌱 Como estou ajudando a Comunidade
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mfreitas702&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <!--
 **mfreitas702/mfreitas702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
